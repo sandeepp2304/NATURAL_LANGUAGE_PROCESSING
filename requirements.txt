@@ -1,0 +1,12 @@
+pandas
+numpy
+nltk
+matplotlib.pyplot
+seaborn
+scikit-learn
+nltk
+bs4
+BeautifulSoup
+WordCloud
+tqdm
+emoji
